@@ -1,6 +1,6 @@
 {
   "name": "fsdapp",
-  "version": "1.0.0",
+  "version": "1.0.0b",
   "description": "Pack for developing full stack application using javascript",
   "main": "index.js",
   "type": "module",
